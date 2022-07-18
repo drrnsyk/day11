@@ -17,9 +17,7 @@ public class D11workshopApplication {
 		// Instead of directly running it
 		// SpringApplication.run(D11lectureApplication.class, args);
 
-		// hello
-
-		// Instantiate it
+		// instantiate it
 		SpringApplication app = new SpringApplication(D11workshopApplication.class);
 
 		String port = "8080";
